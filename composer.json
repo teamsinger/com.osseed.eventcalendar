@@ -1,0 +1,17 @@
+{
+    "name": "osseed/com.osseed.eventcalendar",
+    "type": "civicrm-extension",
+    "license": "MIT",
+    "description": "Show CiviCRM Events in Calendar",
+    "homepage": "https://github.com/osseed/com.osseed.eventcalendar",
+    "authors": [
+        {
+            "name": "OSSeed",
+            "email": "hello@osseed.com",
+            "homepage": "http://osseed.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "dev-civicrm"
+    }
+}
